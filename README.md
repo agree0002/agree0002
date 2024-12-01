@@ -16,13 +16,13 @@ Here are some ideas to get you started:
 -->
 
 <div style="display:inline;">
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
-  <img src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=OpenJDK&logoColor=white">
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white">
+  <img src="https://img.shields.io/badge/Java-000000?style=flat&logo=OpenJDK&logoColor=white">
 </div>
 
 <div style="display:inline;">
-  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white">
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+  <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white">
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white">
 </div>
