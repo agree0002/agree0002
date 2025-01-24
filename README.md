@@ -23,3 +23,6 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white">
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white">
 </div>
+<br/><br/>
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=running02)](https://solved.ac/running02/)
