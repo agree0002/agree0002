@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <h3>Education</h3>
-Economics / Computer Science and Engineering
+Economics / Computer Science and Engineering, Inha University
 
 <br/>
 <br/>
