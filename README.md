@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## Education
-인하대학교  
-- Economics  
+인하대학교
+- Economics
 - Computer Science and Engineering
 
 <br/>
