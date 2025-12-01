@@ -22,6 +22,12 @@ Here are some ideas to get you started:
 <br/>
 <br/>
 
+## Interests
+Backend • Infrastructure • Embedded Systems
+
+<br/>
+<br/>
+
 ## Tech Stack
 Commonly used
 
