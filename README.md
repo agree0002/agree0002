@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 <br/>
 
 ## Interests
-Backend • Infrastructure • Embedded Systems
+Backend • Infrastructure • OS
 
 <br/>
 <br/>
